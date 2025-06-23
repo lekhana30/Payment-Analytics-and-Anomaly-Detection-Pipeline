@@ -65,8 +65,6 @@ The dataset is synthetic and created for educational/portfolio use, containing f
 
 - Integrate **real-time claims feed** for anomaly alerting  
 - Add **policy type breakdowns** to segment pricing performance  
-- Use **forecasting models** to project claims and conversion volume  
-- Blend with **credit score trends** for smarter underwriting
 
 ---
 

@@ -56,8 +56,9 @@ The dataset is synthetic and created for educational/portfolio use, containing f
 
 ## Dashboard Preview
 
-![Dashboard Main](images/claims_dashboard.png)  
-![Risk Premium Distribution](images/risk_chart.png)
+![](images/corelation.png)  
+![](images/Anomaly.png)  
+![Dashboard](images/Screenshot(71).png)
 
 ---
 

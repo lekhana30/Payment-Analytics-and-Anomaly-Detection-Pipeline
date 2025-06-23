@@ -58,7 +58,7 @@ The dataset is synthetic and created for educational/portfolio use, containing f
 
 ![](images/corelation.png)  
 ![](images/Anomaly.png)  
-![Dashboard](images/Screenshot(71).png)
+![Dashboard](images/Screenshot (71).png)
 
 ---
 

@@ -1,4 +1,4 @@
-# Insurance Claims, Premiums & Anomaly Trend
+# Payment Analytics and Anomaly Detection Pipeline
 
 This project analyzes **synthetic insurance data (10,000+ rows)** to uncover hidden trends in **claim payouts**, **premium pricing**, **conversion rates**, and **risk anomalies**. The goal is to provide actionable insights to improve **policy pricing strategy**, **customer segmentation**, and **fraud/anomaly detection** using visual analytics.
 

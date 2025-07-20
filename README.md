@@ -55,9 +55,8 @@ The dataset is synthetic and created for educational/portfolio use, containing f
 ---
 
 ## Dashboard Preview
-[View Tableau Dashboard](https://public.tableau.com/app/profile/lekhana.s1303/viz/ClaimsPremiumsAnomalyRiskDashboard/main)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/lekhana.s1303/viz/PaymentAnalyticsandAnomalyDetectionPipeline/Dashboard1)
 ![Dashboard](images/claim_dash.png)
-![](images/Anomaly2.png)
 ---
 
 ## 🔮 Future Improvements
